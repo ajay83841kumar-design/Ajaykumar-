@@ -22,5 +22,11 @@
         "key": "device123",
         "expirydate": "06-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3b3fd811e877aa05",
+        "key": "activation",
+        "expirydate": "06-05-2026",
+        "Allowoffline": false
     }
 ]
