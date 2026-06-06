@@ -456,9 +456,15 @@
         "Allowoffline": false
     },
     {
-        "device_id": "",
+        "device_id": "1ae562f020eca875",
         "key": "RAH308",
         "expirydate": "06-07-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "63f71f4d0ee03b04",
+        "key": "RAH309",
+        "expirydate": "07-06-2026",
         "Allowoffline": false
     }
 ]
