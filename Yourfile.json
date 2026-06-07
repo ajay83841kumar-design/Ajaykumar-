@@ -520,5 +520,11 @@
         "key": "12345",
         "expirydate": "16-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3049e4b73ef6b3f8",
+        "key": "RAH320",
+        "expirydate": "07-07-2026",
+        "Allowoffline": false
     }
 ]
