@@ -544,5 +544,17 @@
         "key": "RAH322",
         "expirydate": "09-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "270e93b8ed58dd2a",
+        "key": "RAH323",
+        "expirydate": "23-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "a266b45eae27779a",
+        "key": "RAH324",
+        "expirydate": "23-06-2026",
+        "Allowoffline": false
     }
 ]
