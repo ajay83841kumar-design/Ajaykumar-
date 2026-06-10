@@ -976,5 +976,17 @@
         "key": "RAH390",
         "expirydate": "25-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "50aebfc3b765c4fc",
+        "key": "RAH391",
+        "expirydate": "25-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "b9a36964450fed0e",
+        "key": "RAH392",
+        "expirydate": "25-06-2026",
+        "Allowoffline": false
     }
 ]
