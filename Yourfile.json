@@ -1560,7 +1560,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "adf86e0553e285c7",
+        "device_id": "8509d6b9c827e2b7",
         "key": "RAH487",
         "expirydate": "27-06-2026",
         "Allowoffline": false
@@ -1635,6 +1635,12 @@
         "device_id": "d7ef222a0be2fa96",
         "key": "RAH499",
         "expirydate": "27-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "57d703d69492d213",
+        "key": "RAH500",
+        "expirydate": "12-07-2026",
         "Allowoffline": false
     }
 ]
