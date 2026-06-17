@@ -1990,5 +1990,17 @@
         "key": "RAH562",
         "expirydate": "02-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b5a78de28166784d",
+        "key": "RAH565",
+        "expirydate": "02-07-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "9d319c10d4c1a827",
+        "key": "RAH566",
+        "expirydate": "02-07-2026",
+        "Allowoffline": false
     }
 ]
