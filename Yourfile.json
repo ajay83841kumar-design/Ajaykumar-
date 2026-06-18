@@ -2020,5 +2020,11 @@
         "key": "RAH569",
         "expirydate": "03-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "eaf1fb12cbc853d3",
+        "key": "RAH570",
+        "expirydate": "03-07-2026",
+        "Allowoffline": false
     }
 ]
