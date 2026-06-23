@@ -2126,7 +2126,7 @@
     {
         "device_id": "8a70e166c2258388",
         "key": "RAH587",
-        "expirydate": "07-07-2026",
+        "expirydate": "07-06-2026",
         "Allowoffline": false
     },
     {
@@ -2138,6 +2138,12 @@
     {
         "device_id": "4f681ea605bb382d",
         "key": "RAH589",
+        "expirydate": "08-07-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "35000939a931bbd2",
+        "key": "RAH590",
         "expirydate": "08-07-2026",
         "Allowoffline": false
     }
