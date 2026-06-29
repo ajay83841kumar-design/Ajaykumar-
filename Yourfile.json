@@ -12,6 +12,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "578729f17b703696",
+        "key": "aks123",
+        "expirydate": "29-06-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "def378ed4e70c14c",
         "key": "RST123",
         "expirydate": "15-06-2026",
