@@ -2272,5 +2272,11 @@
         "key": "RAH607",
         "expirydate": "04-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4045a68e4c69bd20",
+        "key": "RAH608",
+        "expirydate": "04-08-2026",
+        "Allowoffline": false
     }
 ]
