@@ -482,7 +482,7 @@
     {
         "device_id": "1ae562f020eca875",
         "key": "RAH308",
-        "expirydate": "12-07-2026",
+        "expirydate": "06-07-2026",
         "Allowoffline": false
     },
     {
@@ -2301,6 +2301,12 @@
         "device_id": "d2f008a46cb3822a",
         "key": "RUST611",
         "expirydate": "10-07-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "434f3f00ab3743b0",
+        "key": "RAH612",
+        "expirydate": "12-07-2026",
         "Allowoffline": false
     }
 ]
