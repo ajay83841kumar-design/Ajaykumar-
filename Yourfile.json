@@ -2410,5 +2410,11 @@
         "key": "RUST629",
         "expirydate": "23-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "df2ae221bc537e86",
+        "key": "RAH630",
+        "expirydate": "15-08-2026",
+        "Allowoffline": false
     }
 ]
