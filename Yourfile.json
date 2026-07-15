@@ -2434,5 +2434,11 @@
         "key": "RAH633",
         "expirydate": "22-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "63b841ba2cd0f718",
+        "key": "RUST634",
+        "expirydate": "23-07-2026",
+        "Allowoffline": false
     }
 ]
