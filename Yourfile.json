@@ -2648,18 +2648,24 @@
     {
         "device_id": "2ec17a5689f8e529",
         "key": "RAH671",
-        "expirydate": "25-08-2026",
+        "expirydate": "26-08-2026",
         "Allowoffline": false
     },
     {
         "device_id": "c680ec94be7b023c",
         "key": "RAH672",
-        "expirydate": "25-08-2026",
+        "expirydate": "26-08-2026",
         "Allowoffline": false
     },
     {
         "device_id": "772d970fc25a0282",
         "key": "RAH673",
+        "expirydate": "26-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "a66a00b772c98bba",
+        "key": "RAH674",
         "expirydate": "25-08-2026",
         "Allowoffline": false
     }
