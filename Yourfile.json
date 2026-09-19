@@ -12,6 +12,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "c377d1c7de319679",
+        "key": "RAH203",
+        "expirydate": "04-10-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
