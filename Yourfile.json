@@ -2948,7 +2948,7 @@
     {
         "device_id": "c5fd6ed8d4ab9748",
         "key": "RAH720",
-        "expirydate": "05-10-2026",
+        "expirydate": "15-10-2026",
         "Allowoffline": false
     },
     {
@@ -3560,19 +3560,19 @@
     {
         "device_id": "35643397f74d4d54",
         "key": "RAH824",
-        "expirydate": "14-10-2026",
+        "expirydate": "15-10-2026",
         "Allowoffline": false
     },
     {
         "device_id": "d49d89730b182d30",
         "key": "RAH825",
-        "expirydate": "14-10-2026",
+        "expirydate": "15-10-2026",
         "Allowoffline": false
     },
     {
         "device_id": "1796b15c6a3cef34",
         "key": "RAH826",
-        "expirydate": "14-10-2026",
+        "expirydate": "15-10-2026",
         "Allowoffline": false
     }
 ]
